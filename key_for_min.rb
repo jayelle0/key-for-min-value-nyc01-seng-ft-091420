@@ -8,5 +8,4 @@ name_hash.each do |x,y|
    greatest = y 
   end
 end
-greatest[x]
 end
