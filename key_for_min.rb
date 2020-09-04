@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   key_for_min_value.each do |item, price|
-    greatest  = ""
+    greatest = ""
     if price > greatest  
       puts item 
     end
