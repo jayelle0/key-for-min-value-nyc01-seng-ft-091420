@@ -3,6 +3,6 @@
 
 def key_for_min_value(name_hash)
   key_for_min_value.each do |key, value|
-    puts "Happy Birthday #{kid}! You are now #{age} years old!"
+    
   end
 end
