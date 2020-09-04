@@ -5,8 +5,9 @@ def key_for_min_value(name_hash)
 name_hash.each do |x,y|
   greatest= ""
   if y >= greatest 
-    puts x
+    puts greatest
   else nil 
   end
 end
+greatest[name]
 end
