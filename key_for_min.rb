@@ -3,7 +3,8 @@
 
 def key_for_min_value(name_hash)
   key_for_min_value.each do |key, value|
-    gratest_value  = ""
-    if value > g
+    greatest  = ""
+    if value > greatest  
+      puts key 
   end
 end
