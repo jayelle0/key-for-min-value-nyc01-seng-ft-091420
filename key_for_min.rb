@@ -10,5 +10,5 @@ name_hash.each do |key,value|
    if value < name_hash[lowest_key]
      lowest_key = key
   end
-
+end
 end
