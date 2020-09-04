@@ -6,6 +6,7 @@ name_hash.each do |x,y|
   greatest= ""
   if y >= greatest 
    greatest = y 
+   puts greatest 
   end
 end
 end
